@@ -1,5 +1,7 @@
 import { Application } from "pixi.js";
 import { LoadScreen } from "./screen/load.Screen";
+import { navigation } from "./utils/navigation";
+import { initAssets } from "./utils/assets";
 
 export const app = new Application();
 
@@ -23,19 +25,19 @@ function resize() {
 
   // Update renderer  and navigation screens dimensions
   app.renderer.resize(width, height);
-  // navigation.resize(width, height);
+  navigation.resize(width, height);
 }
 
 /** Fire when document visibility changes - lose or regain focus */
-// function visibilityChange() {
-//   if (document.hidden) {
-//     sound.pauseAll();
-//     navigation.blur();
-//   } else {
-//     sound.resumeAll();
-//     navigation.focus();
-//   }
-// }
+function visibilityChange() {
+  if (document.hidden) {
+    // sound.pauseAll();
+    navigation.blur();
+  } else {
+    // sound.resumeAll();
+    navigation.focus();
+  }
+}
 
 /** Setup app and initialise assets */
 async function init() {
@@ -53,8 +55,14 @@ async function init() {
   // Trigger the first resize
   resize();
 
-  const load = new LoadScreen();
-  app.stage.addChild(load);
+  // Setup assets bundles (see assets.ts) and start up loading everything in background
+  await initAssets();
+
+  // Add a persisting background shared by all screens
+  // navigation.setBackground(TiledBackground);
+
+  // Show initial loading screen
+  await navigation.showScreen(LoadScreen);
 }
 
 await init();
