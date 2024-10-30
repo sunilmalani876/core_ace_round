@@ -1,0 +1,279 @@
+
+gun_sniper-hd-718d049dd7.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sniper
+  rotate: true
+  xy: 174, 304
+  size: 91, 102
+  orig: 104, 104
+  offset: 7, 1
+  index: -1
+sniper_blured
+  rotate: true
+  xy: 477, 12
+  size: 98, 108
+  orig: 128, 128
+  offset: 16, 10
+  index: -1
+sniper_shoot_0
+  rotate: false
+  xy: 369, 300
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 8
+  index: -1
+sniper_shoot_1
+  rotate: false
+  xy: 464, 300
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 8
+  index: -1
+sniper_shoot_10
+  rotate: false
+  xy: 380, 205
+  size: 95, 95
+  orig: 116, 116
+  offset: 10, 14
+  index: -1
+sniper_shoot_11
+  rotate: false
+  xy: 475, 205
+  size: 95, 95
+  orig: 116, 116
+  offset: 10, 14
+  index: -1
+sniper_shoot_12
+  rotate: false
+  xy: 570, 205
+  size: 95, 95
+  orig: 116, 116
+  offset: 10, 13
+  index: -1
+sniper_shoot_13
+  rotate: false
+  xy: 665, 205
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 12
+  index: -1
+sniper_shoot_14
+  rotate: false
+  xy: 760, 205
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 11
+  index: -1
+sniper_shoot_15
+  rotate: false
+  xy: 855, 205
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 10
+  index: -1
+sniper_shoot_16
+  rotate: false
+  xy: 0, 116
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 9
+  index: -1
+sniper_shoot_17
+  rotate: false
+  xy: 95, 114
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 8
+  index: -1
+sniper_shoot_18
+  rotate: false
+  xy: 190, 112
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 7
+  index: -1
+sniper_shoot_19
+  rotate: false
+  xy: 285, 110
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 7
+  index: -1
+sniper_shoot_2
+  rotate: false
+  xy: 559, 300
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 9
+  index: -1
+sniper_shoot_20
+  rotate: false
+  xy: 380, 110
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 7
+  index: -1
+sniper_shoot_21
+  rotate: false
+  xy: 475, 110
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 7
+  index: -1
+sniper_shoot_22
+  rotate: false
+  xy: 570, 110
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 7
+  index: -1
+sniper_shoot_23
+  rotate: false
+  xy: 665, 110
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 8
+  index: -1
+sniper_shoot_24
+  rotate: false
+  xy: 760, 110
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 8
+  index: -1
+sniper_shoot_25
+  rotate: false
+  xy: 855, 110
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 8
+  index: -1
+sniper_shoot_26
+  rotate: false
+  xy: 585, 8
+  size: 102, 102
+  orig: 116, 116
+  offset: 8, 5
+  index: -1
+sniper_shoot_27
+  rotate: false
+  xy: 790, 0
+  size: 110, 110
+  orig: 116, 116
+  offset: 4, 1
+  index: -1
+sniper_shoot_28
+  rotate: false
+  xy: 380, 13
+  size: 97, 97
+  orig: 116, 116
+  offset: 10, 8
+  index: -1
+sniper_shoot_29
+  rotate: false
+  xy: 0, 310
+  size: 85, 85
+  orig: 116, 116
+  offset: 16, 14
+  index: -1
+sniper_shoot_3
+  rotate: false
+  xy: 654, 300
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 9
+  index: -1
+sniper_shoot_30
+  rotate: false
+  xy: 85, 306
+  size: 89, 89
+  orig: 116, 116
+  offset: 14, 12
+  index: -1
+sniper_shoot_31
+  rotate: false
+  xy: 276, 302
+  size: 93, 93
+  orig: 116, 116
+  offset: 12, 10
+  index: -1
+sniper_shoot_32
+  rotate: false
+  xy: 0, 21
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 9
+  index: -1
+sniper_shoot_33
+  rotate: false
+  xy: 95, 19
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 9
+  index: -1
+sniper_shoot_34
+  rotate: false
+  xy: 190, 17
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 9
+  index: -1
+sniper_shoot_35
+  rotate: false
+  xy: 285, 15
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 9
+  index: -1
+sniper_shoot_4
+  rotate: false
+  xy: 749, 300
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 10
+  index: -1
+sniper_shoot_5
+  rotate: false
+  xy: 844, 300
+  size: 95, 95
+  orig: 116, 116
+  offset: 11, 11
+  index: -1
+sniper_shoot_6
+  rotate: false
+  xy: 0, 211
+  size: 95, 95
+  orig: 116, 116
+  offset: 10, 12
+  index: -1
+sniper_shoot_7
+  rotate: false
+  xy: 95, 209
+  size: 95, 95
+  orig: 116, 116
+  offset: 10, 13
+  index: -1
+sniper_shoot_8
+  rotate: false
+  xy: 190, 207
+  size: 95, 95
+  orig: 116, 116
+  offset: 10, 14
+  index: -1
+sniper_shoot_9
+  rotate: false
+  xy: 285, 205
+  size: 95, 95
+  orig: 116, 116
+  offset: 10, 14
+  index: -1
+sniper_shoot_blured
+  rotate: false
+  xy: 687, 7
+  size: 103, 103
+  orig: 116, 116
+  offset: 7, 4
+  index: -1

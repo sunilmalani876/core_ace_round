@@ -1,0 +1,249 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "name": [
+            "reel_icons/ak/gun_ak-hd-ff9180fb18.atlas.txt"
+          ],
+          "srcs": [
+            "reel_icons/ak/gun_ak-hd-ff9180fb18.atlas.txt"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/ak/gun_ak-hd-ff9180fb18.json"
+          ],
+          "srcs": [
+            "reel_icons/ak/gun_ak-hd-ff9180fb18.json"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/ak/gun_ak-hd-ff9180fb18.png"
+          ],
+          "srcs": [
+            "reel_icons/ak/gun_ak-hd-ff9180fb18.png"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_armor/gold_armor-hd-efd7c49df9.atlas.txt"
+          ],
+          "srcs": [
+            "reel_icons/gold_armor/gold_armor-hd-efd7c49df9.atlas.txt"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_armor/gold_armor-hd-efd7c49df9.json"
+          ],
+          "srcs": [
+            "reel_icons/gold_armor/gold_armor-hd-efd7c49df9.json"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_armor/gold_armor-hd-efd7c49df9.png"
+          ],
+          "srcs": [
+            "reel_icons/gold_armor/gold_armor-hd-efd7c49df9.png"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_bandge/gold_bandage-hd-03ccad23f6.atlas.txt"
+          ],
+          "srcs": [
+            "reel_icons/gold_bandge/gold_bandage-hd-03ccad23f6.atlas.txt"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_bandge/gold_bandage-hd-03ccad23f6.json"
+          ],
+          "srcs": [
+            "reel_icons/gold_bandge/gold_bandage-hd-03ccad23f6.json"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_bandge/gold_bandage-hd-03ccad23f6.png"
+          ],
+          "srcs": [
+            "reel_icons/gold_bandge/gold_bandage-hd-03ccad23f6.png"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_gloves/gold_gloves-hd-03797a2e37.atlas.txt"
+          ],
+          "srcs": [
+            "reel_icons/gold_gloves/gold_gloves-hd-03797a2e37.atlas.txt"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_gloves/gold_gloves-hd-03797a2e37.json"
+          ],
+          "srcs": [
+            "reel_icons/gold_gloves/gold_gloves-hd-03797a2e37.json"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_gloves/gold_gloves-hd-03797a2e37.png"
+          ],
+          "srcs": [
+            "reel_icons/gold_gloves/gold_gloves-hd-03797a2e37.png"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_granade/gold_granade-hd-8664387d05.atlas.txt"
+          ],
+          "srcs": [
+            "reel_icons/gold_granade/gold_granade-hd-8664387d05.atlas.txt"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_granade/gold_granade-hd-8664387d05.json"
+          ],
+          "srcs": [
+            "reel_icons/gold_granade/gold_granade-hd-8664387d05.json"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_granade/gold_granade-hd-8664387d05.png"
+          ],
+          "srcs": [
+            "reel_icons/gold_granade/gold_granade-hd-8664387d05.png"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_knife/gold_knife-hd-02b5657d70.atlas.txt"
+          ],
+          "srcs": [
+            "reel_icons/gold_knife/gold_knife-hd-02b5657d70.atlas.txt"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_knife/gold_knife-hd-02b5657d70.json"
+          ],
+          "srcs": [
+            "reel_icons/gold_knife/gold_knife-hd-02b5657d70.json"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/gold_knife/gold_knife-hd-02b5657d70.png"
+          ],
+          "srcs": [
+            "reel_icons/gold_knife/gold_knife-hd-02b5657d70.png"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/p90/gun_p-90-hd-5bdd3f3d92.atlas.txt"
+          ],
+          "srcs": [
+            "reel_icons/p90/gun_p-90-hd-5bdd3f3d92.atlas.txt"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/p90/gun_p-90-hd-5bdd3f3d92.json"
+          ],
+          "srcs": [
+            "reel_icons/p90/gun_p-90-hd-5bdd3f3d92.json"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/p90/gun_p-90-hd-5bdd3f3d92.png"
+          ],
+          "srcs": [
+            "reel_icons/p90/gun_p-90-hd-5bdd3f3d92.png"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/pistal/gun_pistol-hd-7e7cdc466a.atlas.txt"
+          ],
+          "srcs": [
+            "reel_icons/pistal/gun_pistol-hd-7e7cdc466a.atlas.txt"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/pistal/gun_pistol-hd-7e7cdc466a.json"
+          ],
+          "srcs": [
+            "reel_icons/pistal/gun_pistol-hd-7e7cdc466a.json"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/pistal/gun_pistol-hd-7e7cdc466a.png"
+          ],
+          "srcs": [
+            "reel_icons/pistal/gun_pistol-hd-7e7cdc466a.png"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/shot-gun/gun_shotgun-hd-101789a2b1.atlas.txt"
+          ],
+          "srcs": [
+            "reel_icons/shot-gun/gun_shotgun-hd-101789a2b1.atlas.txt"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/shot-gun/gun_shotgun-hd-101789a2b1.json"
+          ],
+          "srcs": [
+            "reel_icons/shot-gun/gun_shotgun-hd-101789a2b1.json"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/shot-gun/gun_shotgun-hd-101789a2b1.png"
+          ],
+          "srcs": [
+            "reel_icons/shot-gun/gun_shotgun-hd-101789a2b1.png"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/sniper/gun_sniper-hd-718d049dd7.atlas.txt"
+          ],
+          "srcs": [
+            "reel_icons/sniper/gun_sniper-hd-718d049dd7.atlas.txt"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/sniper/gun_sniper-hd-718d049dd7.json"
+          ],
+          "srcs": [
+            "reel_icons/sniper/gun_sniper-hd-718d049dd7.json"
+          ]
+        },
+        {
+          "name": [
+            "reel_icons/sniper/gun_sniper-hd-718d049dd7.png"
+          ],
+          "srcs": [
+            "reel_icons/sniper/gun_sniper-hd-718d049dd7.png"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+
+gun_ak-hd-ff9180fb18.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ak_rifle
+  rotate: true
+  xy: 0, 24
+  size: 104, 78
+  orig: 104, 104
+  offset: 0, 20
+  index: -1
+clip_ak
+  rotate: true
+  xy: 0, 3
+  size: 21, 41
+  orig: 104, 104
+  offset: 30, 7
+  index: -1
+gilza_ak_0
+  rotate: true
+  xy: 41, 3
+  size: 11, 8
+  orig: 32, 32
+  offset: 0, 14
+  index: -1
+gilza_ak_1
+  rotate: true
+  xy: 49, 3
+  size: 11, 8
+  orig: 32, 32
+  offset: 0, 14
+  index: -1
+gilza_ak_2
+  rotate: false
+  xy: 50, 16
+  size: 11, 8
+  orig: 32, 32
+  offset: 1, 13
+  index: -1
+gilza_ak_3
+  rotate: true
+  xy: 41, 14
+  size: 10, 9
+  orig: 32, 32
+  offset: 3, 12
+  index: -1
+gilza_ak_4
+  rotate: true
+  xy: 61, 16
+  size: 8, 9
+  orig: 32, 32
+  offset: 6, 12
+  index: -1
+gilza_ak_5
+  rotate: false
+  xy: 63, 8
+  size: 7, 8
+  orig: 32, 32
+  offset: 10, 13
+  index: -1
+gilza_ak_6
+  rotate: true
+  xy: 63, 0
+  size: 8, 6
+  orig: 32, 32
+  offset: 11, 15
+  index: -1
+gilza_ak_7
+  rotate: true
+  xy: 69, 1
+  size: 7, 4
+  orig: 32, 32
+  offset: 12, 17
+  index: -1
+gilza_ak_8
+  rotate: true
+  xy: 70, 18
+  size: 6, 4
+  orig: 32, 32
+  offset: 12, 18
+  index: -1
+gilza_ak_9
+  rotate: true
+  xy: 70, 12
+  size: 6, 4
+  orig: 32, 32
+  offset: 12, 18
+  index: -1
+shoot_1
+  rotate: false
+  xy: 136, 92
+  size: 36, 36
+  orig: 64, 64
+  offset: 14, 14
+  index: -1
+shoot_2
+  rotate: true
+  xy: 120, 17
+  size: 51, 35
+  orig: 64, 45
+  offset: 6, 5
+  index: -1
+shoot_3
+  rotate: true
+  xy: 78, 21
+  size: 47, 42
+  orig: 64, 64
+  offset: 8, 11
+  index: -1
+shoot_glow
+  rotate: true
+  xy: 78, 68
+  size: 60, 58
+  orig: 64, 64
+  offset: 2, 3
+  index: -1
+trim
+  rotate: true
+  xy: 57, 3
+  size: 13, 6
+  orig: 104, 104
+  offset: 29, 44
+  index: -1

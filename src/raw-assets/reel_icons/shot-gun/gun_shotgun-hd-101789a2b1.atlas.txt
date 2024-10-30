@@ -1,0 +1,153 @@
+
+gun_shotgun-hd-101789a2b1.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shoot_glow
+  rotate: false
+  xy: 101, 66
+  size: 60, 58
+  orig: 64, 64
+  offset: 2, 3
+  index: -1
+shotgun
+  rotate: false
+  xy: 0, 32
+  size: 101, 92
+  orig: 104, 104
+  offset: 2, 6
+  index: -1
+shotgun_back_part
+  rotate: false
+  xy: 137, 37
+  size: 24, 29
+  orig: 32, 37
+  offset: 3, 4
+  index: -1
+shotgun_front_part
+  rotate: true
+  xy: 161, 83
+  size: 41, 39
+  orig: 46, 46
+  offset: 2, 4
+  index: -1
+shotung_gilza_0
+  rotate: true
+  xy: 137, 20
+  size: 17, 14
+  orig: 35, 29
+  offset: 14, 7
+  index: -1
+shotung_gilza_1
+  rotate: true
+  xy: 201, 31
+  size: 18, 13
+  orig: 35, 29
+  offset: 12, 8
+  index: -1
+shotung_gilza_2
+  rotate: true
+  xy: 244, 104
+  size: 20, 12
+  orig: 35, 29
+  offset: 10, 9
+  index: -1
+shotung_gilza_3
+  rotate: true
+  xy: 201, 9
+  size: 22, 11
+  orig: 35, 29
+  offset: 8, 10
+  index: -1
+shotung_gilza_4
+  rotate: true
+  xy: 151, 15
+  size: 22, 10
+  orig: 35, 29
+  offset: 7, 11
+  index: -1
+shotung_gilza_5
+  rotate: true
+  xy: 84, 10
+  size: 22, 8
+  orig: 35, 29
+  offset: 7, 12
+  index: -1
+shotung_gilza_6
+  rotate: true
+  xy: 246, 23
+  size: 23, 9
+  orig: 35, 29
+  offset: 7, 12
+  index: -1
+shotung_gilza_7
+  rotate: true
+  xy: 246, 0
+  size: 23, 9
+  orig: 35, 29
+  offset: 7, 12
+  index: -1
+shotung_gilza_8
+  rotate: false
+  xy: 61, 23
+  size: 23, 9
+  orig: 35, 29
+  offset: 7, 12
+  index: -1
+shotung_shoot_1
+  rotate: false
+  xy: 161, 49
+  size: 58, 34
+  orig: 64, 43
+  offset: 4, 8
+  index: -1
+shotung_shoot_2
+  rotate: false
+  xy: 0, 3
+  size: 33, 29
+  orig: 64, 43
+  offset: 24, 8
+  index: -1
+shotung_shoot_3
+  rotate: true
+  xy: 214, 9
+  size: 37, 32
+  orig: 64, 43
+  offset: 20, 6
+  index: -1
+shotung_shoot_4
+  rotate: false
+  xy: 161, 15
+  size: 40, 34
+  orig: 64, 43
+  offset: 17, 5
+  index: -1
+shotung_shoot_5
+  rotate: false
+  xy: 200, 88
+  size: 44, 36
+  orig: 64, 43
+  offset: 13, 4
+  index: -1
+shotung_shoot_6
+  rotate: true
+  xy: 101, 24
+  size: 42, 36
+  orig: 64, 43
+  offset: 14, 4
+  index: -1
+shotung_shoot_7
+  rotate: true
+  xy: 219, 46
+  size: 42, 36
+  orig: 64, 43
+  offset: 13, 3
+  index: -1
+shotung_shoot_8
+  rotate: true
+  xy: 33, 6
+  size: 26, 28
+  orig: 64, 43
+  offset: 26, 7
+  index: -1

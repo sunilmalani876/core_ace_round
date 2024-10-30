@@ -1,0 +1,118 @@
+
+gun_pistol-hd-7e7cdc466a.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gilza_ak_0
+  rotate: false
+  xy: 88, 9
+  size: 11, 8
+  orig: 32, 32
+  offset: 0, 14
+  index: -1
+gilza_ak_1
+  rotate: false
+  xy: 95, 1
+  size: 11, 8
+  orig: 32, 32
+  offset: 0, 14
+  index: -1
+gilza_ak_2
+  rotate: false
+  xy: 99, 9
+  size: 11, 8
+  orig: 32, 32
+  offset: 1, 13
+  index: -1
+gilza_ak_3
+  rotate: true
+  xy: 79, 7
+  size: 10, 9
+  orig: 32, 32
+  offset: 3, 12
+  index: -1
+gilza_ak_4
+  rotate: false
+  xy: 106, 0
+  size: 8, 9
+  orig: 32, 32
+  offset: 6, 12
+  index: -1
+gilza_ak_5
+  rotate: true
+  xy: 79, 0
+  size: 7, 8
+  orig: 32, 32
+  offset: 10, 13
+  index: -1
+gilza_ak_6
+  rotate: false
+  xy: 87, 1
+  size: 8, 6
+  orig: 32, 32
+  offset: 11, 15
+  index: -1
+gilza_ak_7
+  rotate: false
+  xy: 0, 0
+  size: 7, 4
+  orig: 32, 32
+  offset: 12, 17
+  index: -1
+gilza_ak_8
+  rotate: false
+  xy: 7, 0
+  size: 6, 4
+  orig: 32, 32
+  offset: 12, 18
+  index: -1
+gilza_ak_9
+  rotate: false
+  xy: 13, 0
+  size: 6, 4
+  orig: 32, 32
+  offset: 12, 18
+  index: -1
+muzle_hole
+  rotate: true
+  xy: 58, 1
+  size: 16, 21
+  orig: 18, 23
+  offset: 1, 1
+  index: -1
+pistol
+  rotate: false
+  xy: 125, 11
+  size: 46, 53
+  orig: 52, 63
+  offset: 5, 6
+  index: -1
+shoot_1
+  rotate: false
+  xy: 202, 28
+  size: 36, 36
+  orig: 64, 64
+  offset: 14, 14
+  index: -1
+shoot_glow
+  rotate: true
+  xy: 0, 4
+  size: 60, 58
+  orig: 64, 64
+  offset: 2, 3
+  index: -1
+silencer
+  rotate: false
+  xy: 58, 17
+  size: 67, 47
+  orig: 71, 53
+  offset: 1, 3
+  index: -1
+silencer_print
+  rotate: true
+  xy: 171, 15
+  size: 49, 31
+  orig: 53, 35
+  offset: 1, 1
+  index: -1
