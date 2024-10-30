@@ -1,17 +1,13 @@
 import { Application } from "pixi.js";
-import { designConfig } from "./designConfig";
+import { LoadScreen } from "./screen/load.Screen";
 
-export const app = new Application<HTMLCanvasElement>({
-  resolution: Math.max(window.devicePixelRatio, 2),
-  backgroundColor: 0x0d92f4,
-});
+export const app = new Application();
 
 function resize() {
   const windowWidth = window.innerWidth;
   const windowHeight = window.innerHeight;
-
-  const minWidth = designConfig.content.width;
-  const minHeight = designConfig.content.height;
+  const minWidth = 375;
+  const minHeight = 700;
 
   // Calculate renderer and canvas sizes based on current dimensions
   const scaleX = windowWidth < minWidth ? minWidth / windowWidth : 1;
@@ -21,35 +17,44 @@ function resize() {
   const height = windowHeight * scale;
 
   // Update canvas style dimensions and scroll window up to avoid issues on mobile resize
-  app.renderer.view.style.width = `${windowWidth}px`;
-  app.renderer.view.style.height = `${windowHeight}px`;
+  app.renderer.canvas.style.width = `${windowWidth}px`;
+  app.renderer.canvas.style.height = `${windowHeight}px`;
   window.scrollTo(0, 0);
 
-  // Update renderer and navigation screens dimensions
+  // Update renderer  and navigation screens dimensions
   app.renderer.resize(width, height);
-  // navigation.init();
   // navigation.resize(width, height);
 }
 
+/** Fire when document visibility changes - lose or regain focus */
+// function visibilityChange() {
+//   if (document.hidden) {
+//     sound.pauseAll();
+//     navigation.blur();
+//   } else {
+//     sound.resumeAll();
+//     navigation.focus();
+//   }
+// }
+
 /** Setup app and initialise assets */
 async function init() {
-  document.body.appendChild(app.view);
+  // Initialize app
+  await app.init({
+    resolution: Math.max(window.devicePixelRatio, 2),
+    backgroundColor: 0x7ed4ad,
+  });
+
+  document.body.appendChild(app.canvas);
 
   // Whenever the window resizes, call the 'resize' function
   window.addEventListener("resize", resize);
 
-  // Trigger the first
+  // Trigger the first resize
   resize();
 
-  // await initAssets();
-
-  // Set the default local storage data if needed
-  // storage.readyStorage();
-
-  // Navigate to the spin wheel screen
-  // await navigation.goToScreen(ResultScreen);
-  // await navigation.goToScreen(Background);
-  // await navigation.goToScreen(PrimaryBtn);
+  const load = new LoadScreen();
+  app.stage.addChild(load);
 }
 
 await init();

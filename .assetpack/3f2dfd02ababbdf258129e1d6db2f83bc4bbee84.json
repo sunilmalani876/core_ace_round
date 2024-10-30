@@ -1,0 +1,328 @@
+{
+    "assets": {
+        "C:/Users/PC/Desktop/class_ace_round/raw-assets": {
+            "isFolder": true,
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/raw-assets/preload{m}": {
+            "isFolder": true,
+            "parent": "C:/Users/PC/Desktop/class_ace_round/raw-assets",
+            "metaData": {
+                "m": true
+            },
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/raw-assets/preload{m}/cauldron-skeleton.atlas": {
+            "isFolder": false,
+            "parent": "C:/Users/PC/Desktop/class_ace_round/raw-assets/preload{m}",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {},
+            "hash": "kMIncg"
+        },
+        ".assetpack/mipmap-spine-atlas/preload{m}/cauldron-skeleton.atlas": {
+            "isFolder": false,
+            "transformParent": "C:/Users/PC/Desktop/class_ace_round/raw-assets/preload{m}/cauldron-skeleton.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton.png.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap-spine-atlas/preload{m}/cauldron-skeleton.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-kMIncg.png.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton.png.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/public/assets/preload/cauldron-skeleton-nXPppw.png.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-kMIncg.png.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton.webp.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap-spine-atlas/preload{m}/cauldron-skeleton.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-Flz0Gw.webp.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton.webp.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/public/assets/preload/cauldron-skeleton-SO49rg.webp.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-Flz0Gw.webp.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/mipmap-spine-atlas/preload{m}/cauldron-skeleton@0.5x.atlas": {
+            "isFolder": false,
+            "transformParent": "C:/Users/PC/Desktop/class_ace_round/raw-assets/preload{m}/cauldron-skeleton.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton@0.5x.png.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap-spine-atlas/preload{m}/cauldron-skeleton@0.5x.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-1Y7x2w@0.5x.png.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton@0.5x.png.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/public/assets/preload/cauldron-skeleton-rEWrEg@0.5x.png.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-1Y7x2w@0.5x.png.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton@0.5x.webp.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap-spine-atlas/preload{m}/cauldron-skeleton@0.5x.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-0HDidw@0.5x.webp.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/spine-atlas-compress/preload{m}/cauldron-skeleton@0.5x.webp.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/public/assets/preload/cauldron-skeleton-x9cBkA@0.5x.webp.atlas": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-0HDidw@0.5x.webp.atlas",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/raw-assets/preload{m}/cauldron-skeleton.json": {
+            "isFolder": false,
+            "parent": "C:/Users/PC/Desktop/class_ace_round/raw-assets/preload{m}",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {},
+            "hash": "OvMtRw"
+        },
+        ".assetpack/json/preload{m}/cauldron-skeleton.json": {
+            "isFolder": false,
+            "transformParent": "C:/Users/PC/Desktop/class_ace_round/raw-assets/preload{m}/cauldron-skeleton.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-pLdtSg.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/preload{m}/cauldron-skeleton.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/public/assets/preload/cauldron-skeleton-pLdtSg.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-pLdtSg.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/raw-assets/preload{m}/cauldron-skeleton.png": {
+            "isFolder": false,
+            "parent": "C:/Users/PC/Desktop/class_ace_round/raw-assets/preload{m}",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {},
+            "hash": "deNGIA"
+        },
+        ".assetpack/mipmap/preload{m}/cauldron-skeleton.png": {
+            "isFolder": false,
+            "transformParent": "C:/Users/PC/Desktop/class_ace_round/raw-assets/preload{m}/cauldron-skeleton.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/compress/preload{m}/cauldron-skeleton.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/preload{m}/cauldron-skeleton.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-IGBYVA.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/preload{m}/cauldron-skeleton.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/public/assets/preload/cauldron-skeleton-IGBYVA.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-IGBYVA.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/compress/preload{m}/cauldron-skeleton.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/preload{m}/cauldron-skeleton.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-EI8BnQ.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/preload{m}/cauldron-skeleton.webp",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/public/assets/preload/cauldron-skeleton-EI8BnQ.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-EI8BnQ.webp",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/mipmap/preload{m}/cauldron-skeleton@0.5x.png": {
+            "isFolder": false,
+            "transformParent": "C:/Users/PC/Desktop/class_ace_round/raw-assets/preload{m}/cauldron-skeleton.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/compress/preload{m}/cauldron-skeleton@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/preload{m}/cauldron-skeleton@0.5x.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-oWAR4g@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/preload{m}/cauldron-skeleton@0.5x.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/public/assets/preload/cauldron-skeleton-oWAR4g@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-oWAR4g@0.5x.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/compress/preload{m}/cauldron-skeleton@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/preload{m}/cauldron-skeleton@0.5x.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/preload{m}/cauldron-skeleton-PTDolA@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/preload{m}/cauldron-skeleton@0.5x.webp",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "C:/Users/PC/Desktop/class_ace_round/public/assets/preload/cauldron-skeleton-PTDolA@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/preload{m}/cauldron-skeleton-PTDolA@0.5x.webp",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        }
+    }
+}

@@ -4,244 +4,288 @@
       "name": "default",
       "assets": [
         {
-          "name": [
-            "reel_icons/ak/gun_ak-hd-ff9180fb18.atlas.txt"
+          "alias": [
+            "reel_icons/ak/gun_ak-hd.atlas.txt"
           ],
-          "srcs": [
-            "reel_icons/ak/gun_ak-hd-ff9180fb18.atlas.txt"
+          "src": [
+            "reel_icons/ak/gun_ak-hd.atlas.txt"
           ]
         },
         {
-          "name": [
-            "reel_icons/ak/gun_ak-hd-ff9180fb18.json"
+          "alias": [
+            "reel_icons/ak/gun_ak-hd.json"
           ],
-          "srcs": [
-            "reel_icons/ak/gun_ak-hd-ff9180fb18.json"
+          "src": [
+            "reel_icons/ak/gun_ak-hd.json"
           ]
         },
         {
-          "name": [
-            "reel_icons/ak/gun_ak-hd-ff9180fb18.png"
+          "alias": [
+            "reel_icons/ak/gun_ak-hd.png"
           ],
-          "srcs": [
-            "reel_icons/ak/gun_ak-hd-ff9180fb18.png"
+          "src": [
+            "reel_icons/ak/gun_ak-hd.png"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_armor/gold_armor-hd-efd7c49df9.atlas.txt"
+          "alias": [
+            "reel_icons/gold_armor/gold_armor-hd.atlas.txt"
           ],
-          "srcs": [
-            "reel_icons/gold_armor/gold_armor-hd-efd7c49df9.atlas.txt"
+          "src": [
+            "reel_icons/gold_armor/gold_armor-hd.atlas.txt"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_armor/gold_armor-hd-efd7c49df9.json"
+          "alias": [
+            "reel_icons/gold_armor/gold_armor-hd.json"
           ],
-          "srcs": [
-            "reel_icons/gold_armor/gold_armor-hd-efd7c49df9.json"
+          "src": [
+            "reel_icons/gold_armor/gold_armor-hd.json"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_armor/gold_armor-hd-efd7c49df9.png"
+          "alias": [
+            "reel_icons/gold_armor/gold_armor-hd.png"
           ],
-          "srcs": [
-            "reel_icons/gold_armor/gold_armor-hd-efd7c49df9.png"
+          "src": [
+            "reel_icons/gold_armor/gold_armor-hd.png"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_bandge/gold_bandage-hd-03ccad23f6.atlas.txt"
+          "alias": [
+            "reel_icons/gold_bandge/gold_bandage-hd.atlas.txt"
           ],
-          "srcs": [
-            "reel_icons/gold_bandge/gold_bandage-hd-03ccad23f6.atlas.txt"
+          "src": [
+            "reel_icons/gold_bandge/gold_bandage-hd.atlas.txt"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_bandge/gold_bandage-hd-03ccad23f6.json"
+          "alias": [
+            "reel_icons/gold_bandge/gold_bandage-hd.json"
           ],
-          "srcs": [
-            "reel_icons/gold_bandge/gold_bandage-hd-03ccad23f6.json"
+          "src": [
+            "reel_icons/gold_bandge/gold_bandage-hd.json"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_bandge/gold_bandage-hd-03ccad23f6.png"
+          "alias": [
+            "reel_icons/gold_bandge/gold_bandage-hd.png"
           ],
-          "srcs": [
-            "reel_icons/gold_bandge/gold_bandage-hd-03ccad23f6.png"
+          "src": [
+            "reel_icons/gold_bandge/gold_bandage-hd.png"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_gloves/gold_gloves-hd-03797a2e37.atlas.txt"
+          "alias": [
+            "reel_icons/gold_gloves/gold_gloves-hd.atlas.txt"
           ],
-          "srcs": [
-            "reel_icons/gold_gloves/gold_gloves-hd-03797a2e37.atlas.txt"
+          "src": [
+            "reel_icons/gold_gloves/gold_gloves-hd.atlas.txt"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_gloves/gold_gloves-hd-03797a2e37.json"
+          "alias": [
+            "reel_icons/gold_gloves/gold_gloves-hd.json"
           ],
-          "srcs": [
-            "reel_icons/gold_gloves/gold_gloves-hd-03797a2e37.json"
+          "src": [
+            "reel_icons/gold_gloves/gold_gloves-hd.json"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_gloves/gold_gloves-hd-03797a2e37.png"
+          "alias": [
+            "reel_icons/gold_gloves/gold_gloves-hd.png"
           ],
-          "srcs": [
-            "reel_icons/gold_gloves/gold_gloves-hd-03797a2e37.png"
+          "src": [
+            "reel_icons/gold_gloves/gold_gloves-hd.png"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_granade/gold_granade-hd-8664387d05.atlas.txt"
+          "alias": [
+            "reel_icons/gold_granade/gold_granade-hd.atlas.txt"
           ],
-          "srcs": [
-            "reel_icons/gold_granade/gold_granade-hd-8664387d05.atlas.txt"
+          "src": [
+            "reel_icons/gold_granade/gold_granade-hd.atlas.txt"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_granade/gold_granade-hd-8664387d05.json"
+          "alias": [
+            "reel_icons/gold_granade/gold_granade-hd.json"
           ],
-          "srcs": [
-            "reel_icons/gold_granade/gold_granade-hd-8664387d05.json"
+          "src": [
+            "reel_icons/gold_granade/gold_granade-hd.json"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_granade/gold_granade-hd-8664387d05.png"
+          "alias": [
+            "reel_icons/gold_granade/gold_granade-hd.png"
           ],
-          "srcs": [
-            "reel_icons/gold_granade/gold_granade-hd-8664387d05.png"
+          "src": [
+            "reel_icons/gold_granade/gold_granade-hd.png"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_knife/gold_knife-hd-02b5657d70.atlas.txt"
+          "alias": [
+            "reel_icons/gold_knife/gold_knife-hd.atlas.txt"
           ],
-          "srcs": [
-            "reel_icons/gold_knife/gold_knife-hd-02b5657d70.atlas.txt"
+          "src": [
+            "reel_icons/gold_knife/gold_knife-hd.atlas.txt"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_knife/gold_knife-hd-02b5657d70.json"
+          "alias": [
+            "reel_icons/gold_knife/gold_knife-hd.json"
           ],
-          "srcs": [
-            "reel_icons/gold_knife/gold_knife-hd-02b5657d70.json"
+          "src": [
+            "reel_icons/gold_knife/gold_knife-hd.json"
           ]
         },
         {
-          "name": [
-            "reel_icons/gold_knife/gold_knife-hd-02b5657d70.png"
+          "alias": [
+            "reel_icons/gold_knife/gold_knife-hd.png"
           ],
-          "srcs": [
-            "reel_icons/gold_knife/gold_knife-hd-02b5657d70.png"
+          "src": [
+            "reel_icons/gold_knife/gold_knife-hd.png"
           ]
         },
         {
-          "name": [
-            "reel_icons/p90/gun_p-90-hd-5bdd3f3d92.atlas.txt"
+          "alias": [
+            "reel_icons/p90/gun_p-90-hd.atlas.txt"
           ],
-          "srcs": [
-            "reel_icons/p90/gun_p-90-hd-5bdd3f3d92.atlas.txt"
+          "src": [
+            "reel_icons/p90/gun_p-90-hd.atlas.txt"
           ]
         },
         {
-          "name": [
-            "reel_icons/p90/gun_p-90-hd-5bdd3f3d92.json"
+          "alias": [
+            "reel_icons/p90/gun_p-90-hd.json"
           ],
-          "srcs": [
-            "reel_icons/p90/gun_p-90-hd-5bdd3f3d92.json"
+          "src": [
+            "reel_icons/p90/gun_p-90-hd.json"
           ]
         },
         {
-          "name": [
-            "reel_icons/p90/gun_p-90-hd-5bdd3f3d92.png"
+          "alias": [
+            "reel_icons/p90/gun_p-90-hd.png"
           ],
-          "srcs": [
-            "reel_icons/p90/gun_p-90-hd-5bdd3f3d92.png"
+          "src": [
+            "reel_icons/p90/gun_p-90-hd.png"
           ]
         },
         {
-          "name": [
-            "reel_icons/pistal/gun_pistol-hd-7e7cdc466a.atlas.txt"
+          "alias": [
+            "reel_icons/pistal/gun_pistol-hd.atlas.txt"
           ],
-          "srcs": [
-            "reel_icons/pistal/gun_pistol-hd-7e7cdc466a.atlas.txt"
+          "src": [
+            "reel_icons/pistal/gun_pistol-hd.atlas.txt"
           ]
         },
         {
-          "name": [
-            "reel_icons/pistal/gun_pistol-hd-7e7cdc466a.json"
+          "alias": [
+            "reel_icons/pistal/gun_pistol-hd.json"
           ],
-          "srcs": [
-            "reel_icons/pistal/gun_pistol-hd-7e7cdc466a.json"
+          "src": [
+            "reel_icons/pistal/gun_pistol-hd.json"
           ]
         },
         {
-          "name": [
-            "reel_icons/pistal/gun_pistol-hd-7e7cdc466a.png"
+          "alias": [
+            "reel_icons/pistal/gun_pistol-hd.png"
           ],
-          "srcs": [
-            "reel_icons/pistal/gun_pistol-hd-7e7cdc466a.png"
+          "src": [
+            "reel_icons/pistal/gun_pistol-hd.png"
           ]
         },
         {
-          "name": [
-            "reel_icons/shot-gun/gun_shotgun-hd-101789a2b1.atlas.txt"
+          "alias": [
+            "reel_icons/shot-gun/gun_shotgun-hd.atlas.txt"
           ],
-          "srcs": [
-            "reel_icons/shot-gun/gun_shotgun-hd-101789a2b1.atlas.txt"
+          "src": [
+            "reel_icons/shot-gun/gun_shotgun-hd.atlas.txt"
           ]
         },
         {
-          "name": [
-            "reel_icons/shot-gun/gun_shotgun-hd-101789a2b1.json"
+          "alias": [
+            "reel_icons/shot-gun/gun_shotgun-hd.json"
           ],
-          "srcs": [
-            "reel_icons/shot-gun/gun_shotgun-hd-101789a2b1.json"
+          "src": [
+            "reel_icons/shot-gun/gun_shotgun-hd.json"
           ]
         },
         {
-          "name": [
-            "reel_icons/shot-gun/gun_shotgun-hd-101789a2b1.png"
+          "alias": [
+            "reel_icons/shot-gun/gun_shotgun-hd.png"
           ],
-          "srcs": [
-            "reel_icons/shot-gun/gun_shotgun-hd-101789a2b1.png"
+          "src": [
+            "reel_icons/shot-gun/gun_shotgun-hd.png"
           ]
         },
         {
-          "name": [
-            "reel_icons/sniper/gun_sniper-hd-718d049dd7.atlas.txt"
+          "alias": [
+            "reel_icons/sniper/gun_sniper-hd.atlas.txt"
           ],
-          "srcs": [
-            "reel_icons/sniper/gun_sniper-hd-718d049dd7.atlas.txt"
+          "src": [
+            "reel_icons/sniper/gun_sniper-hd.atlas.txt"
           ]
         },
         {
-          "name": [
-            "reel_icons/sniper/gun_sniper-hd-718d049dd7.json"
+          "alias": [
+            "reel_icons/sniper/gun_sniper-hd.json"
           ],
-          "srcs": [
-            "reel_icons/sniper/gun_sniper-hd-718d049dd7.json"
+          "src": [
+            "reel_icons/sniper/gun_sniper-hd.json"
           ]
         },
         {
-          "name": [
-            "reel_icons/sniper/gun_sniper-hd-718d049dd7.png"
+          "alias": [
+            "reel_icons/sniper/gun_sniper-hd.png"
           ],
-          "srcs": [
-            "reel_icons/sniper/gun_sniper-hd-718d049dd7.png"
+          "src": [
+            "reel_icons/sniper/gun_sniper-hd.png"
           ]
+        }
+      ]
+    },
+    {
+      "name": "preload",
+      "assets": [
+        {
+          "alias": [
+            "preload/cauldron-skeleton.atlas"
+          ],
+          "src": [
+            "preload/cauldron-skeleton.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/cauldron-skeleton.json"
+          ],
+          "src": [
+            "preload/cauldron-skeleton.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/cauldron-skeleton.png"
+          ],
+          "src": [
+            "preload/cauldron-skeleton.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
         }
       ]
     }

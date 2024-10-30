@@ -1,0 +1,44 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": []
+    },
+    {
+      "name": "preload",
+      "assets": [
+        {
+          "alias": [
+            "preload/cauldron-skeleton.atlas",
+            "cauldron-skeleton.atlas"
+          ],
+          "src": [
+            "preload/cauldron-skeleton-x9cBkA@0.5x.webp.atlas",
+            "preload/cauldron-skeleton-SO49rg.webp.atlas",
+            "preload/cauldron-skeleton-rEWrEg@0.5x.png.atlas",
+            "preload/cauldron-skeleton-nXPppw.png.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "preload/cauldron-skeleton.json",
+            "cauldron-skeleton.json"
+          ],
+          "src": [
+            "preload/cauldron-skeleton-pLdtSg.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
